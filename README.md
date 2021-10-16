@@ -2,6 +2,10 @@
 
 This repository has been created only for learning.
 
-##SubHeader
+## SubHeader
 
-This is a subheader
+This is a subheader.
+
+## Local Development
+
+Open index.html in your browser.
