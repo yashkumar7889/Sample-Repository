@@ -9,3 +9,4 @@ Open index.html in your browser.
 ### Steps
 
 first download
+Then set the path of the library
